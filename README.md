@@ -52,6 +52,6 @@ This project is a personal portfolio website showcasing my skills, projects, and
 
 ### Check My Porflio Here
 
-<a href="https://hrutujamirgal.github.io/portfolio/">**Hrutuja Mirgal**</a>
+<a href="https://hrutujaportfolio-3838vw4lf-hrutujamirgals-projects.vercel.app/">**Hrutuja Mirgal**</a>
 
 
