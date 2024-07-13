@@ -19,7 +19,7 @@ const Skills = () => {
       </div>
 
       <div className="w-full px-2 md:px-5 flex flex-col">
-        <div className="w-full flex flex-wrap justify-center">
+        <div className="w-full flex flex-wrap flex-col justify-center">
           {Object.entries(skills).map(([category, skillList]) => (
             <div
               key={category}
